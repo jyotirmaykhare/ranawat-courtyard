@@ -1,0 +1,14 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "public",
+  "rewrites": [
+    { "source": "/about", "destination": "/index.html" },
+    { "source": "/architecture-gardens", "destination": "/index.html" },
+    { "source": "/weddings-events", "destination": "/index.html" },
+    { "source": "/farmhouse-stay", "destination": "/index.html" },
+    { "source": "/boutique", "destination": "/index.html" },
+    { "source": "/dining", "destination": "/index.html" },
+    { "source": "/gallery", "destination": "/index.html" },
+    { "source": "/contact", "destination": "/index.html" }
+  ]
+}

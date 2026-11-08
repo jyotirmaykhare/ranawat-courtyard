@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ranawat-heritage-courtyard.lovable.app/sitemap.xml
